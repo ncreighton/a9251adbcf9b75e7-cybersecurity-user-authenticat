@@ -1,0 +1,2 @@
+# a9251adbcf9b75e7-cybersecurity-user-authenticat
+The cybersecurity tool you'd build yourself — if you had the time.  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Cybersecurity User Authentication And Access Control — fully configured and ready to use - One-click activation directly from the brow
